@@ -7,3 +7,5 @@ After the berlin hardfork [eip 2929](https://eips.ethereum.org/EIPS/eip-2929) wa
 For our situation we needed to run `endAuction(11000003)` on our auction contract that would allow the transfer to two different gnosis safes to occur.
 
 Look at [./index.js](./index.js) for a complete example.
+
+(shout out @rmeissner for the help here)
