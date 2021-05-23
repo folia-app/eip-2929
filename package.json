@@ -1,0 +1,16 @@
+{
+  "name": "eip-2929",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^5.2.0",
+    "folia-contracts": "github:folia-app/folia-contracts#c884453356098b30050fc6c6e066b4c6464ff551"
+  }
+}
