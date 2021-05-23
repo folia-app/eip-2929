@@ -1,12 +1,12 @@
 {
   "name": "eip-2929",
   "version": "1.0.0",
-  "description": "",
+  "description": "fix eip-2929 with eip-2930 so transfer eth with gnosis safe works again",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node index.js"
   },
-  "author": "",
+  "author": "Billy Rennekamp <@okwme>",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
