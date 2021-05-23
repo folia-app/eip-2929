@@ -8,4 +8,4 @@ For our situation we needed to run `endAuction(11000003)` on our auction contrac
 
 Look at [./index.js](./index.js) for a complete example.
 
-(shout out @rmeissner for the help here)
+(shout out [@rmeissner](https://github.com/rmeissner) for the help here)
